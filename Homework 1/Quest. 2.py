@@ -1,0 +1,1 @@
+plt.figure(figsize=(10, 6)) plt. plot(df_sorted. plt.plot(index, df_sorted['capitalLong'], marker='o', linestyle='-', color='b') plt. How to show a distribution of capitalLong Feature.title('Distribution of capitalLong Feature') plt.xlabel('Index') plt.ylabel('capitalLong') plt.grid(True) plt.show()
